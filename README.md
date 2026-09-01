@@ -1,4 +1,5 @@
-# Intel·ligència artificial - UIB (2025-2026)
+# Intel·ligència artificial - UIB (2026 - 2027)
+## Professors: Aina Maria Tur Serrano, Miquel Miró Nicolau
 
 En aquest repositori trobareu tots els exemples pràctics treballats durant les classes de l’assignatura d’Intel·ligència Artificial (21722).
 
