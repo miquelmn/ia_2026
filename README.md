@@ -15,7 +15,7 @@ per fer-ho.
 
 Descarregar el repositori.
 ```
-     git clone https://github.com/miquelmn/ia_2025
+     git clone https://github.com/miquelmn/ia_2026
 ```
 
 ### 2. Instal·lar `uv`:

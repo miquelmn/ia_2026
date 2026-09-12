@@ -13,6 +13,7 @@ dependencies = [
     "pandas-stubs~=2.3.3",
     "pygame-ce>=2.5.8",
     "ialib",
+    "pipreqs>=0.5.0",
 ]
 
 
