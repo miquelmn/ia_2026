@@ -8,9 +8,9 @@ from quiques.agent import Barca
 from quiques.estat import Estat
 
 
-class BarcaAstar(Barca):
+class BarcaGreedy(Barca):
     def __init__(self):
-        super(BarcaAstar, self).__init__()
+        super(BarcaGreedy, self).__init__()
 
     def actua(self, percepcio: dict) -> tuple[str, (int, int)]:
         pass
